@@ -1,0 +1,12 @@
+{
+    "FR-4": {
+        "EF 3.0 Climate Change - total [kg CO2 eq.]": {
+            "prepreg_manufacture_total": 8.53648,
+            "shredding": 0.02045,
+            "treatment_of_waste_plastic": 2.16031,
+            "heat_recovery": -0.25842,
+            "elec_recovery": -0.62393
+        }
+    }
+    
+}

@@ -1,0 +1,225 @@
+{
+    "board": {
+        "Size": {
+            "Length": 68.58,
+            "Width": 60.96
+        },
+        "Number_of_Layers": 2
+    },
+    "resistor": {
+        "0603": 2,
+        "0402": 2
+    },
+    "capacitor": {
+        "0603": 12
+    },
+    "inductor": {
+        "0805": 2
+    },
+    "IC": {
+        "Green": {
+            "Name": "Green",
+            "Package": "CHIPLED_0805",
+            "Package_Area": "1.15 x 1.85",
+            "Package_Type": "0603 (1608 Metric)",
+            "Die_Size": 0.532,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "M7": {
+            "Name": "M7",
+            "Package": "SMB",
+            "Package_Area": "4.521 x 3.81",
+            "Package_Type": null,
+            "Die_Size": 6.201,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "NCP1117ST50T3G": {
+            "Name": "NCP1117ST50T3G",
+            "Package": "SOT223",
+            "Package_Area": "6.553 x 3.556",
+            "Package_Type": "TO-261-4, TO-261AA",
+            "Die_Size": 11.418,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "MF-MSMF050-2 500mA": {
+            "Name": "MF-MSMF050-2 500mA",
+            "Package": "L1812",
+            "Package_Area": "2.946 x 3.2",
+            "Package_Type": "1812 (4532 Metric), Concave",
+            "Die_Size": 6.033,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "Yellow": {
+            "Name": "Yellow",
+            "Package": "CHIPLED_0805",
+            "Package_Area": "1.15 x 1.85",
+            "Package_Type": "0603 (1608 Metric)",
+            "Die_Size": 0.532,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 3
+        },
+        "CG0603MLC-05E": {
+            "Name": "CG0603MLC-05E",
+            "Package": "CT/CN0603",
+            "Package_Area": "1.5 x 0.7",
+            "Package_Type": "0603 (1608 Metric)",
+            "Die_Size": 0.262,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 2
+        },
+        "22R": {
+            "Name": "22R",
+            "Package": "CAY16",
+            "Package_Area": "3.1 x 1.5",
+            "Package_Type": "0402 (1005 Metric)",
+            "Die_Size": 2.976,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "ATMEGA32U4-XUMU": {
+            "Name": "ATMEGA32U4-XUMU",
+            "Package": "QFN44ML7X7",
+            "Package_Area": "7.0 x 7.0",
+            "Package_Type": "44-TQFP",
+            "Die_Size": 12.25,
+            "Memory_Size": "32KB (16K x 16)",
+            "GPIO_Count": 26,
+            "Power_Consumption": "",
+            "Process_Node": "90 nm",
+            "Count": 1
+        },
+        "ATMEGA32U4-XUAU": {
+            "Name": "ATMEGA32U4-XUAU",
+            "Package": "TQFP44-PAD",
+            "Package_Area": "9.6 x 9.6",
+            "Package_Type": "44-TQFP",
+            "Die_Size": 23.04,
+            "Memory_Size": "32KB (16K x 16)",
+            "GPIO_Count": 26,
+            "Power_Consumption": "",
+            "Process_Node": "90 nm",
+            "Count": 1
+        },
+        "LP2985-33DBVR": {
+            "Name": "LP2985-33DBVR",
+            "Package": "SOT23-DBV",
+            "Package_Area": "2.844 x 1.62",
+            "Package_Type": "SC-74A, SOT-753",
+            "Die_Size": 2.258,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "TS42": {
+            "Name": "TS42",
+            "Package": "TS42",
+            "Package_Area": "6.204 x 6.178",
+            "Package_Type": "8-SOIC (0.154\", 3.90mm Width)",
+            "Die_Size": 13.798,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "1K": {
+            "Name": "1K",
+            "Package": "CAY16",
+            "Package_Area": "3.1 x 1.5",
+            "Package_Type": "0402 (1005 Metric)",
+            "Die_Size": 2.976,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "10K": {
+            "Name": "10K",
+            "Package": "CAY16",
+            "Package_Area": "3.1 x 1.5",
+            "Package_Type": "0402 (1005 Metric)",
+            "Die_Size": 2.976,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "16MHz KX-7": {
+            "Name": "16MHz KX-7",
+            "Package": "CRYSTAL-3.2-2.5",
+            "Package_Area": "3.2 x 2.5",
+            "Package_Type": "4-SMD, Flat Lead",
+            "Die_Size": 5.12,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "FDN340P": {
+            "Name": "FDN340P",
+            "Package": "SOT-23",
+            "Package_Area": "2.896 x 0.762",
+            "Package_Type": "TO-236-3, SC-59, SOT-23-3",
+            "Die_Size": 0.794,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "LMV358IDGKR": {
+            "Name": "LMV358IDGKR",
+            "Package": "MSOP08",
+            "Package_Area": "3.25 x 3.25",
+            "Package_Type": "8-TSSOP, 8-MSOP (0.118\", 3.00mm Width)",
+            "Die_Size": 3.802,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "CD1206-S01575": {
+            "Name": "CD1206-S01575",
+            "Package": "MINIMELF",
+            "Package_Area": "2.642 x 1.575",
+            "Package_Type": "1206 (3216 Metric)",
+            "Die_Size": 3.371,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        }
+    }
+}

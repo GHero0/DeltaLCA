@@ -1,0 +1,251 @@
+{
+    "board": {
+        "Size": {
+            "Length": 68.6,
+            "Width": 53.34
+        },
+        "Number_of_Layers": 2
+    },
+    "resistor": {
+        "0402": 44,
+        "0603": 2
+    },
+    "capacitor": {
+        "0402": 38,
+        "0603": 2,
+        "0805": 1
+    },
+    "inductor": {
+        "0603": 1
+    },
+    "IC": {
+        "ATMEGA4809": {
+            "Name": "ATMEGA4809",
+            "Package": "TQFP48",
+            "Package_Area": "7.0 x 7.0",
+            "Package_Type": "48-TQFP",
+            "Die_Size": 12.25,
+            "Memory_Size": "48KB (24K x 16)",
+            "GPIO_Count": "41",
+            "Power_Consumption": "",
+            "Process_Node": "180 nm",
+            "Count": 1
+        },
+        "32768Hz": {
+            "Name": "32768Hz",
+            "Package": "ABS07",
+            "Package_Area": "3.2 x 1.5",
+            "Package_Type": "2-SMD, No Lead",
+            "Die_Size": 3.072,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "ECC608": {
+            "Name": "ECC608",
+            "Package": "SON50P300X200X60-9N-EP160X140",
+            "Package_Area": "2.0 x 3.0",
+            "Package_Type": "8-UFDFN Exposed Pad",
+            "Die_Size": 1.5,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "LSM6DS3TR": {
+            "Name": "LSM6DS3TR",
+            "Package": "LGA14L",
+            "Package_Area": "3.0 x 2.5",
+            "Package_Type": null,
+            "Die_Size": 4.8,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "RGB": {
+            "Name": "RGB",
+            "Package": "RGBLED",
+            "Package_Area": "4.0 x 4.0",
+            "Package_Type": "0404 (1010 Metric)",
+            "Die_Size": 4.0,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "BSS138PS": {
+            "Name": "BSS138PS",
+            "Package": "SOT363",
+            "Package_Area": "2.2 x 1.2",
+            "Package_Type": "6-TSSOP, SC-88, SOT-363",
+            "Die_Size": 0.95,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 2
+        },
+        "NINA-W132": {
+            "Name": "NINA-W132",
+            "Package": "NINA-W1X",
+            "Package_Area": "14.0 x 10.0",
+            "Package_Type": "36-SMD Module",
+            "Die_Size": 89.6,
+            "Memory_Size": "16Mb Flash, 4Mb SRAM",
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "1N4007": {
+            "Name": "1N4007",
+            "Package": "SMB_DO214AA",
+            "Package_Area": "4.7 x 3.8",
+            "Package_Type": "SOD-123F",
+            "Die_Size": 11.43,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "DMP2160": {
+            "Name": "DMP2160",
+            "Package": "PWR_SC70",
+            "Package_Area": "2.0 x 2.0",
+            "Package_Type": "TO-236-3, SC-59, SOT-23-3",
+            "Die_Size": 1.0,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 2
+        },
+        "0.5A": {
+            "Name": "0.5A",
+            "Package": "0603-1608X90N",
+            "Package_Area": "1.6 x 0.8",
+            "Package_Type": "TO-236-3, SC-59, SOT-23-3",
+            "Die_Size": 0.32,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "PRTR5V": {
+            "Name": "PRTR5V",
+            "Package": "SOT190P230X110-4N",
+            "Package_Area": "2.3 x 2.9",
+            "Package_Type": "6-XFDFN",
+            "Die_Size": 2.401,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        " ATMEGA32U4RC": {
+            "Name": " ATMEGA32U4RC",
+            "Package": "QFN50P700X700X100-45N",
+            "Package_Area": "7.112 x 7.112",
+            "Package_Type": "44-VFQFN Exposed Pad",
+            "Die_Size": 12.645,
+            "Memory_Size": "32KB (16K x 16)",
+            "GPIO_Count": "26",
+            "Power_Consumption": "",
+            "Process_Node": "90 nm",
+            "Count": 1
+        },
+        "GREEN": {
+            "Name": "GREEN",
+            "Package": "LEDC1608X80N-AK",
+            "Package_Area": "1.6 x 0.8",
+            "Package_Type": "0603 (1608 Metric)",
+            "Die_Size": 0.819,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "YELLOW": {
+            "Name": "YELLOW",
+            "Package": "LEDC1608X80N-AK",
+            "Package_Area": "1.6 x 0.8",
+            "Package_Type": "0603 (1608 Metric)",
+            "Die_Size": 0.819,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 3
+        },
+        "16MHz": {
+            "Name": "16MHz",
+            "Package": "CRYSTAL-3.2-2.5",
+            "Package_Area": "3.2 x 2.4",
+            "Package_Type": "3-SMD, Non-Standard",
+            "Die_Size": 4.915,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "MPM3610": {
+            "Name": "MPM3610",
+            "Package": "MPM3610",
+            "Package_Area": "3.0 x 5.0",
+            "Package_Type": "20-PowerLFQFN Module",
+            "Die_Size": 3.75,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "74LVC1G125DCKR": {
+            "Name": "74LVC1G125DCKR",
+            "Package": "SC70-5",
+            "Package_Area": "2.0 x 1.1",
+            "Package_Type": "5-TSSOP, SC-70-5, SOT-353",
+            "Die_Size": 0.792,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 2
+        },
+        "MC74LVX4245": {
+            "Name": "MC74LVX4245",
+            "Package": "TSSOP24",
+            "Package_Area": "7.689 x 4.566",
+            "Package_Type": "24-SOIC (0.295\", 7.50mm Width)",
+            "Die_Size": 12.639,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 2
+        },
+        "TXS0102": {
+            "Name": "TXS0102",
+            "Package": "VFSOP-8",
+            "Package_Area": "2.0 x 2.3",
+            "Package_Type": "8-LSSOP, 8-MSOP (0.110\", 2.80mm Width)",
+            "Die_Size": 1.656,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 2
+        }
+    }
+}

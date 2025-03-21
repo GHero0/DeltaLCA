@@ -1,0 +1,178 @@
+{
+    "board": {
+        "Size": {
+            "Length": 67.6,
+            "Width": 25.1
+        },
+        "Number_of_Layers": 4
+    },
+    "resistor": {
+        "0402": 26
+    },
+    "capacitor": {
+        "0402": 19,
+        "0603": 5,
+        "0805": 1
+    },
+    "inductor": {
+        "0603": 2
+    },
+    "IC": {
+        "ATSAMD21G18A-48": {
+            "Name": "ATSAMD21G18A-48",
+            "Package": "QFN50P700X700X90-49XN-EPSQ515",
+            "Package_Area": "7.0 x 7.0",
+            "Package_Type": "48-VFQFN Exposed Pad",
+            "Die_Size": 12.25,
+            "Memory_Size": "256KB (256K x 8)",
+            "GPIO_Count": "38",
+            "Power_Consumption": "",
+            "Process_Node": "90 nm",
+            "Count": 1
+        },
+        "PRTR5V0U2X,215": {
+            "Name": "PRTR5V0U2X,215",
+            "Package": "SOT190P230X110-4N",
+            "Package_Area": "2.3 x 2.9",
+            "Package_Type": "TO-253-4, TO-253AA",
+            "Die_Size": 2.401,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "32.768KHz": {
+            "Name": "32.768KHz",
+            "Package": "ABS07",
+            "Package_Area": "3.2 x 1.5",
+            "Package_Type": "2-SMD, No Lead",
+            "Die_Size": 3.072,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "YELLOW": {
+            "Name": "YELLOW",
+            "Package": "LEDC1608X80N-AK",
+            "Package_Area": "1.6 x 0.8",
+            "Package_Type": "0603 (1608 Metric)",
+            "Die_Size": 0.819,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "DMP2160UFDB": {
+            "Name": "DMP2160UFDB",
+            "Package": "PWR_SC70",
+            "Package_Area": "2.0 x 2.0",
+            "Package_Type": "6-UDFN Exposed Pad",
+            "Die_Size": 1.0,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 4
+        },
+        "PMEG2005EL": {
+            "Name": "PMEG2005EL",
+            "Package": "SODFL1008X40N-882D",
+            "Package_Area": "1.0 x 0.6",
+            "Package_Type": "SOD-882",
+            "Die_Size": 0.216,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 2
+        },
+        "GREEN": {
+            "Name": "GREEN",
+            "Package": "LEDC1608X80N-AK",
+            "Package_Area": "1.6 x 0.8",
+            "Package_Type": "0603 (1608 Metric)",
+            "Die_Size": 0.819,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "PTC": {
+            "Name": "PTC",
+            "Package": "0603-1608X90N",
+            "Package_Area": "1.6 x 0.8",
+            "Package_Type": "1206 (3216 Metric), Concave",
+            "Die_Size": 0.32,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "ATAB8520E": {
+            "Name": "ATAB8520E",
+            "Package": "ATAB8520E",
+            "Package_Area": "16.916 x 26.0",
+            "Package_Type": "",
+            "Die_Size": 281.482,
+            "Memory_Size": "",
+            "GPIO_Count": "",
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "2N7002T": {
+            "Name": "2N7002T",
+            "Package": "SOTFL50P160X78-3",
+            "Package_Area": "1.7 x 0.98",
+            "Package_Type": "TO-236-3, SC-59, SOT-23-3",
+            "Die_Size": 0.6,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 4
+        },
+        "LDO2SOT89-3L": {
+            "Name": "LDO2SOT89-3L",
+            "Package": "SOT89-3L",
+            "Package_Area": "5.0 x 3.0",
+            "Package_Type": "",
+            "Die_Size": 5.4,
+            "Memory_Size": "",
+            "GPIO_Count": "",
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "RESET": {
+            "Name": "RESET",
+            "Package": "C&K_PTS820_NO_HOLES",
+            "Package_Area": "5.4 x 4.2",
+            "Package_Type": "1206 (3216 Metric), Concave",
+            "Die_Size": 8.165,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        },
+        "UFL": {
+            "Name": "UFL",
+            "Package": "U.FL-R-SMT-1(60)",
+            "Package_Area": "3.8 x 4.0",
+            "Package_Type": null,
+            "Die_Size": 9.728,
+            "Memory_Size": null,
+            "GPIO_Count": null,
+            "Power_Consumption": "",
+            "Process_Node": "",
+            "Count": 1
+        }
+    }
+}

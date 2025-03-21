@@ -1,0 +1,6 @@
+customtkinter==5.2.1
+networkx==3.0
+numpy==1.24.1
+ortools==9.7.2996
+packaging
+digikey-api==1.0.0
